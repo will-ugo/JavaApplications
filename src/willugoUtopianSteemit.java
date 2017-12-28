@@ -1,6 +1,7 @@
 import javax.swing.JOptionPane;
-
+```java
 public class willugoUtopianSteemit {
+```
 	public static void main (String args []) {
 		String firstNumber;
 		String secondNumber;
